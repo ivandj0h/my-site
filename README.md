@@ -27,6 +27,32 @@ yarn dev
 pnpm dev
 ```
 
+### Prisma Setup
+```bash
+yarn add typescript ts-node @types/node --save-dev
+```  
+
+```bash
+yarn add prisma --save-dev
+```  
+
+```bash
+yarn add @prisma/client
+```  
+
+```bash
+npx prisma init
+```  
+
+```bash
+npx prisma migrate dev --name init
+```  
+
+```bash
+npx prisma generate
+```  
+
+
 ### Screenshots
 ![Home](https://res.cloudinary.com/ivandjoh/image/upload/v1684112226/home-page_fjngem.png)
 
