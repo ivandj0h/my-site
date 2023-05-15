@@ -27,13 +27,17 @@ yarn dev
 pnpm dev
 ```
 
+### Screenshots
+![Home](https://res.cloudinary.com/ivandjoh/image/upload/v1684112226/home-page_fjngem.png)
+
+
 ### Credits
  - [Next.js](https://nextjs.org/)
  - [React](https://reactjs.org/)
  - [Tailwind CSS](https://tailwindcss.com/)
 
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)  
 
 ### Author
  - [ivandjoh](https://linkedin.com/in/ivandjoh)
